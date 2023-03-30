@@ -7,7 +7,7 @@ public class Main {
        solar.planets = "2";
        featureSun Xron = new featureSun();
        Xron.tem = "123123123";
-       Xron.radius = 1231231234;
+       Xron.radius = "1231231234";
        Xron.color = "pink";
     }
 }
